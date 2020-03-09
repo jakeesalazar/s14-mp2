@@ -2,4 +2,5 @@
 
 # Charity app
 ## Team Members:
+Cuison, Enrico Luis M.
 Salazar, Jacob Israel R.
